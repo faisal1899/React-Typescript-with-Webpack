@@ -1,11 +1,58 @@
 import * as React from 'react';
 
-export interface AppProps {
+export interface IAppProps {
   appName: string;
   appId: number;
 }
 
-export class App extends React.Component<AppProps, {}> {
+function test() {
+  const arr = [];
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+  arr.push(2);
+}
+
+export class App extends React.Component<IAppProps, {}> {
   render() {
     return (
       <div>
