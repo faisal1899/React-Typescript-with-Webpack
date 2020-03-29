@@ -1,0 +1,35 @@
+Error: multiple output @typescript-eslint/consistent-type-assertions ESLint rule options were generated, but tslint-to-eslint-config doesn't have "merger" logic to deal with this.
+Please file an issue at https://github.com/typescript-eslint/tslint-to-eslint-config/issues/new?template=missing_merger.md 🙏
+
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "ban"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "encoding"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "import-spacing"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsdoc-format"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-alignment"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-boolean-value"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-curly-spacing"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-equals-spacing"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-key"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-no-bind"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-no-lambda"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-no-multiline-js"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-no-string-ref"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-self-close"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsx-wrap-multiline"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "match-default-export-name"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-boolean-literal-compare"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-dynamic-delete"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-inferred-empty-object-type"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-mergeable-namespace"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-reference-import"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-unnecessary-callback-wrapper"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-unused-variable"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "object-literal-sort-keys"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "one-line"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-conditional-expression"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-method-signature"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-switch"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-while"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "strict-type-predicates"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "typedef"[39m
+[33m[39m
