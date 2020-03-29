@@ -6,7 +6,6 @@
       true,
       {
         "limit": 120,
-        // "ignore-pattern": "^import |^export {(.*?)}",
         "check-strings": true,
         "check-regex": true
       }
@@ -90,7 +89,6 @@
     "no-eval": true,
     "no-floating-promises": true,
     "no-for-in-array": true,
-    // "no-implicit-dependencies": [true, ["src"]],
     "no-inferred-empty-object-type": true,
     "no-invalid-template-strings": true,
     "no-invalid-this": true,
@@ -184,7 +182,6 @@
         ]
       }
     ],
-    // "prefer-function-over-method": true,
     "prefer-method-signature": true,
     "prefer-switch": true,
     "prefer-template": true,
