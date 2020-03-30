@@ -5,6 +5,7 @@ import * as _ from 'lodash';
 // import { includes } from 'lodash';
 import * as loader from 'html-webpack-plugin';
 
+console.log('over here')
 
 function functionName (
   first: string,
