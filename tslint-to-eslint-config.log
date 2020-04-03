@@ -1,0 +1,37 @@
+Error: multiple output @typescript-eslint/consistent-type-assertions ESLint rule options were generated, but tslint-to-eslint-config doesn't have "merger" logic to deal with this.
+Please file an issue at https://github.com/typescript-eslint/tslint-to-eslint-config/issues/new?template=missing_merger.md 🙏
+
+Could not resolve ESLint extension 'eslint-plugin-airbnb-typescript'.: Error: Cannot find module 'E:\projects\cutom-react-setup-with-typescript\eslint-plugin-airbnb-typescript'
+Require stack:
+- C:\Users\Qureshi\AppData\Roaming\npm-cache\_npx\2792\node_modules\tslint-to-eslint-config\src\adapters\nativeImporter.js
+- C:\Users\Qureshi\AppData\Roaming\npm-cache\_npx\2792\node_modules\tslint-to-eslint-config\src\cli\main.js
+- C:\Users\Qureshi\AppData\Roaming\npm-cache\_npx\2792\node_modules\tslint-to-eslint-config\bin\tslint-to-eslint-config
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+    at Module.require (internal/modules/cjs/loader.js:830:19)
+    at require (internal/modules/cjs/helpers.js:68:18)
+    at C:\Users\Qureshi\AppData\Roaming\npm-cache\_npx\2792\node_modules\tslint-to-eslint-config\src\adapters\nativeImporter.js:21:64
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+
+
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "ban"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "encoding"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "import-spacing"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "jsdoc-format"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "match-default-export-name"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-boolean-literal-compare"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-dynamic-delete"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-inferred-empty-object-type"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-mergeable-namespace"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-reference-import"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-unnecessary-callback-wrapper"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "no-unused-variable"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "object-literal-sort-keys"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "one-line"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-conditional-expression"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-method-signature"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-switch"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "prefer-while"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "strict-type-predicates"[39m
+[33mtslint-to-eslint-config does not know the ESLint equivalent for TSLint's "typedef"[39m
+[33m[39m
